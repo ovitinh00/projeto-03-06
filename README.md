@@ -1,1 +1,2 @@
-# projeto-03-06
+# site-alura-plus
+Projeto 2 Segundo ano
